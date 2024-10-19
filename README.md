@@ -10,7 +10,7 @@
 
 ## ✨ Features
 - **Profile Picture Display**: Shows new Reddit profile pictures alongside old usernames.
-- **Seamless Integration**: Integrates smoothly with Reddit’s comment section.
+- **Seamless Integration**: Integrates smoothly with Reddit’s comment section. Compatible with Reddit Enhancement Suite (RES).
 - **User-Friendly**: Easy to install and use.
 
 ## 🚀 Installation
